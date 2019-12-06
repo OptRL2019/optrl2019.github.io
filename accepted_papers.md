@@ -44,7 +44,7 @@ Some papers will be selected to give an additional oral/spotlight presentation, 
 - <a href="assets/accepted_papers/34.pdf">**Distributional Reinforcement Learning for Energy-Based Sequential Models**</a>. Tetiana Parshakova, Jean-Marc Andreoli, Marc Dymetman
 - <a href="assets/accepted_papers/16.pdf">**Multi-Task Reinforcement Learning without Interference**</a>. Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Karol Hausman, Sergey Levine, Chelsea Finn
 - <a href="assets/accepted_papers/73.pdf">**Toward Provably Unbiased Temporal-Difference Value Estimation**</a>. Roy Fox
-- <a href="assets/accepted_papers/60.pdf">**Provable Q-Iteration without Concentrability** Ming Yu, Zhuoran Yang, Mengdi Wang, Zhaoran Wang
+- <a href="assets/accepted_papers/60.pdf">**Provable Q-Iteration without Concentrability**</a>. Ming Yu, Zhuoran Yang, Mengdi Wang, Zhaoran Wang
 - **Faster saddle-point optimization for solving large-scale Markov decision processes**. Joan Bas Serrano, Gergely Neu
 - <a href="assets/accepted_papers/45.pdf">**Approximate information state for partially observed systems**</a>. Jayakumar Subramanian, Aditya Mahajan
 - **Improved Upper and Lower Bounds for Policy and Strategy Iteration**. Aaron Sidford, Mengdi Wang, Lin  Yang, Yinyu Ye
