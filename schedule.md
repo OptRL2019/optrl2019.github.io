@@ -28,7 +28,7 @@ layout: default
 | | - Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao: <a href="assets/accepted_papers/54.pdf">*On Computation and Generalization of Generative Adversarial Imitation Learning*</a>|
 | | - Philip Amortila, Doina Precup, Prakash  Panangaden, Marc G. Bellemare: <a href="assets/accepted_papers/69.pdf">*A Distributional Analysis of Sampling-Based Reinforcement Learning Algorithms*</a>|
 | 12:20 - 14:00 | **Lunch** |
-| 14:00 - 14:40 | **Invited Talk** - [Benjamin Van Roy][ben]: *TBA*|
+| 14:00 - 14:40 | **Invited Talk** - [Benjamin Van Roy][ben]: *RL Beyond Optimization*|
 | 14:40 - 15:20 | **Invited Talk** - [Shipra Agrawal][shipra]: *Learning in structured MDPs with convex cost function: improved regret bounds for inventory management*|
 | 15:20 - 16:20 | **Poster and Coffee Break** |
 | 16:20 - 17:00 | **Invited Talk** - [Huizhen Yu][huizhen]: *On the Convergence of GTD($$\lambda$$) with General $$\lambda$$* |
