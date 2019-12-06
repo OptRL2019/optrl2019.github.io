@@ -18,11 +18,10 @@ layout: default
 | 09:30 - 10:30 | **Poster and Coffee Break** |
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
 ||Reinforcement learning is now the dominant paradigm for how an agent learns to interact with the world in order to achieve some long term objectives. Here, policy gradient methods are among the most effective methods in challenging reinforcement learning problems, due to that they: are applicable to any differentiable policy parameterization; admit easy extensions to function approximation; easily incorporate structured state and action spaces; are easy to implement in a simulation based, model-free manner.
-
 However, little is known about even their most basic theoretical convergence properties, including:
- - do they converge to a globally optimal solution, say with a sufficiently rich policy class?
- - how well do they cope with approximation error, say due to using a class of neural policies?
- - what is their finite sample complexity?
+ $$\cdot$$ do they converge to a globally optimal solution, say with a sufficiently rich policy class?
+ $$\cdot$$ how well do they cope with approximation error, say due to using a class of neural policies?
+ $$\cdot$$ what is their finite sample complexity?
 This talk will survey a number of results on these basic questions. We will  highlight the interplay of theory, algorithm design, and practice.
 
 Joint work with: Alekh Agarwal, Jason Lee, Gaurav Mahajan|
