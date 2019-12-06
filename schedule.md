@@ -7,7 +7,7 @@ layout: default
 
 | Time    | Event |
 | ------- | -------- |
-| 08:00 - 08:10 | Opening Remarks |
+| 08:00 - 08:10 | **Opening Remarks** |
 | 08:10 - 08:50 | **Invited Talk** - [Mengdi Wang][mengdi]: *TBA*|
 | 08:50 - 09:10 | **Contributed Talk** - Lior Shani, Yonathan Efroni, Shie Mannor: <a href="assets/accepted_papers/2.pdf">*Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs*</a> |
 | 09:10 - 09:30 | **Spotlight** |
