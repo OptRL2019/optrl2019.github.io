@@ -35,7 +35,7 @@ For camera-ready version, please use the "final" option:
 
 The submission site is <a href="https://cmt3.research.microsoft.com/OPTRL2019"> https://cmt3.research.microsoft.com/OPTRL2019 </a>. The final versions will be posted on the workshop website. 
 
-# Poster Size
+# Poster size
 
 Posters are taped onto the wall. Posters should be on lightweight paper, not laminated one. We will provide the tape. The posters should be no larger than 36W x 48H inches or 90 x 122 cm in portrait mode.
 
