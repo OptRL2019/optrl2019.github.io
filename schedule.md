@@ -8,7 +8,7 @@ layout: default
 | Time    | Event |
 | ------- | -------- |
 | 08:00 - 08:10 | **Opening Remarks** |
-| 08:10 - 08:50 | **Invited Talk** - [Mengdi Wang][mengdi]: *TBA*|
+| 08:10 - 08:50 | **Invited Talk** - [Mengdi Wang][mengdi]: *Unsupervised State Embedding and Aggregation towards Scalable Reinforcement Learning*|
 | 08:50 - 09:10 | **Contributed Talk** - Lior Shani, Yonathan Efroni, Shie Mannor: <a href="assets/accepted_papers/2.pdf">*Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs*</a> |
 | 09:10 - 09:30 | **Spotlight** |
 | | - David Brandfonbrener, Joan Bruna: <a href="assets/accepted_papers/7.pdf">*Geometric Insights into the Convergence of Nonlinear TD Learning*</a>|
