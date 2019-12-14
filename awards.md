@@ -5,7 +5,10 @@ layout: default
 
 
 # Best Paper Awards
-- TBA
+- <a href="assets/accepted_papers/2.pdf">**Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs**</a>. Lior Shani, Yonathan Efroni, Shie Mannor
+- <a href="assets/accepted_papers/37.pdf">**Logarithmic Regret for Online Control**</a>. Naman Agarwal, Elad Hazan, Karan Singh	
+- <a href="assets/accepted_papers/55.pdf">**Continuous Online Learning and New Insights to Online Imitation Learning**</a>. Jonathan Lee, Ching-An Cheng, Ken Goldberg, Byron Boots
+
 
 
 # Student Travel Awards
