@@ -23,7 +23,7 @@ layout: default
 | | - Donghwan Lee, Niao He： <a href="assets/accepted_papers/27.pdf">*Analysis of Q-Learning: Switching System Approach*</a>|
 | | - Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye: <a href="assets/accepted_papers/33.pdf">*Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity*</a>|
 | | - Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang: <a href="assets/accepted_papers/42.pdf">*Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games*</a>|
-| | - Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu: <a href="assets/accepted_papers/48.pdf">*Harnessing Infinite-Horizon Off-Policy Evaluation: Double Robustness via Duality*</a>|
+| | - Ziyang Tang, Yihao Feng, Lihong Li, Denny Zhou, Qiang Liu: <a href="assets/accepted_papers/48.pdf">*Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation*</a>|
 | | - Rodrigo A Toro Icarte, Ethan Waldie, Toryn  Klassen,  Richard Valenzano, Margarita  Castro, Sheila A.  McIlraith: <a href="assets/accepted_papers/49.pdf">*Learning Reward Machines for Partially Observable Reinforcement Learning*</a>|	
 | | - Simon Du, Sham Kakade, Ruosong Wang, Lin Yang: <a href="assets/accepted_papers/53.pdf">*Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?*</a>|
 | | - Minshuo Chen, Yizhou Wang, Tianyi  Liu, Xingguo Li, Zhuoran Yang, Zhaoran Wang, Tuo Zhao: <a href="assets/accepted_papers/54.pdf">*On Computation and Generalization of Generative Adversarial Imitation Learning*</a>|
