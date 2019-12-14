@@ -10,7 +10,7 @@ layout: default
 | 08:00 - 08:10 | **Opening Remarks** |
 | 08:10 - 08:50 | **Invited Talk** - [Mengdi Wang][mengdi]: *Unsupervised State Embedding and Aggregation towards Scalable Reinforcement Learning*|
 | 08:50 - 09:10 | **Contributed Talk** - Lior Shani, Yonathan Efroni, Shie Mannor: <a href="assets/accepted_papers/2.pdf">*Adaptive Trust Region Policy Optimization: Convergence and Faster Rates of regularized MDPs*</a> |
-| 09:10 - 09:30 | **Spotlight** |
+| 09:10 - 09:30 | **Spotlights** |
 | | - David Brandfonbrener, Joan Bruna: <a href="assets/accepted_papers/7.pdf">*Geometric Insights into the Convergence of Nonlinear TD Learning*</a>|
 | | - Tom Zahavy, Haim Kaplan, Alon Cohen, Yishay Mansour: <a href="assets/accepted_papers/10.pdf">*Apprenticeship Learning via Frank-Wolfe*</a>|	
 | | - Nikos Karampatziakis, John Langford, Paul Mineiro: <a href="assets/accepted_papers/22.pdf">*Empirical Likelihood for Contextual Bandits*</a>|
@@ -19,7 +19,7 @@ layout: default
 | 10:30 - 11:10 | **Invited Talk** - [Sham Kakade][sham]: *The Provable Effectiveness of Policy Gradient Methods in Reinforcement Learning*|
 | |Reinforcement learning is now the dominant paradigm for how an agent learns to interact with the world in order to achieve some long term objectives. Here, policy gradient methods are among the most effective methods in challenging reinforcement learning problems, due to that they: are applicable to any differentiable policy parameterization; admit easy extensions to function approximation; easily incorporate structured state and action spaces; are easy to implement in a simulation based, model-free manner. However, little is known about even their most basic theoretical convergence properties, including: i), do they converge to a globally optimal solution, say with a sufficiently rich policy class? ii), how well do they cope with approximation error, say due to using a class of neural policies? iii), what is their finite sample complexity? This talk will survey a number of results on these basic questions. We will  highlight the interplay of theory, algorithm design, and practice. (Joint work with: Alekh Agarwal, Jason Lee, Gaurav Mahajan)|
 | 11:10 - 11:40 | **Panel Discussion** - [Richard Sutton][rich] and [Doina Precup][doina] |
-| 11:40 - 12:20 | **Spotlight** |
+| 11:40 - 12:20 | **Spotlights** |
 | | - Donghwan Lee, Niao He： <a href="assets/accepted_papers/27.pdf">*Analysis of Q-Learning: Switching System Approach*</a>|
 | | - Aaron Sidford, Mengdi Wang, Lin Yang, Yinyu Ye: <a href="assets/accepted_papers/33.pdf">*Solving Discounted Stochastic Two-Player Games with Near-Optimal Time and Sample Complexity*</a>|
 | | - Zuyue Fu, Zhuoran Yang, Yongxin Chen, Zhaoran Wang: <a href="assets/accepted_papers/42.pdf">*Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games*</a>|
